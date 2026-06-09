@@ -11,5 +11,6 @@ I'm trying to understand how the complex world works
 ├─◈ linux
 ├─◈ swagger
 ├─◈ liquibase
+  
 <s> think? </s> do
 </pre>
