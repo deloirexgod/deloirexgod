@@ -12,5 +12,5 @@ I'm trying to understand how the complex world works
 ├─◈ swagger
 ├─◈ liquibase
   
-<s> think? </s> do
+<s> think </s> do
 </pre>
